@@ -1,6 +1,8 @@
 # DreamIn2020SessionRepo
 Resources for DreamIn2020 Presentation
 
+Recorded Session : https://www.youtube.com/watch?v=EJ-Yu8tnbHE
+
 **Curated list of Awesome Extensions for Lightning**
 
 
