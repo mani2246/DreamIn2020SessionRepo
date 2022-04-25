@@ -36,3 +36,5 @@ Recorded Session : https://www.youtube.com/watch?v=EJ-Yu8tnbHE
 | 26  	| Boostr for Salesforce                         	| https://chrome.google.com/webstore/detail/boostr-for-salesforce/kegohbhdgaoaoanbpconbeleanhdodlo?hl=en    	|
 | 27  	| Salesforce Navigator for Lightning            	| https://chrome.google.com/webstore/detail/salesforce-navigator-for/pbjjdhghffpemcglcadejmkcpnpmlklh?hl=en 	|
 | 28  	| Salesforce LWC Editor            	| https://chrome.google.com/webstore/detail/salesforce-lwc-editor/ehkpneicmpbdejpoancidgkejlkahjgo 	|
+| 29  	| Salesforce Assistant            	| https://chrome.google.com/webstore/detail/salesforce-assistant/acpngnlieelljdlljmenkagbonaicccj 	|
+| 30  	| Salesforce Lightning Grid System | https://chrome.google.com/webstore/detail/salesforce-lightning-grid/nenellcdpeipfeeiobkkchdpjdiophpg 	|
