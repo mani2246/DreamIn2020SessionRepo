@@ -35,3 +35,4 @@ Recorded Session : https://www.youtube.com/watch?v=EJ-Yu8tnbHE
 | 25  	| Enhance Salesforce Dashboard                  	| https://chrome.google.com/webstore/detail/enhance-salesforce-dashbo/mogildlgjglckdcfclpbcbidpdkjgeeb      	|
 | 26  	| Boostr for Salesforce                         	| https://chrome.google.com/webstore/detail/boostr-for-salesforce/kegohbhdgaoaoanbpconbeleanhdodlo?hl=en    	|
 | 27  	| Salesforce Navigator for Lightning            	| https://chrome.google.com/webstore/detail/salesforce-navigator-for/pbjjdhghffpemcglcadejmkcpnpmlklh?hl=en 	|
+| 28  	| Salesforce LWC Editor            	| https://chrome.google.com/webstore/detail/salesforce-lwc-editor/ehkpneicmpbdejpoancidgkejlkahjgo 	|
